@@ -11,7 +11,7 @@
 
 ## 1. Document Purpose
 
-This Business Requirements Document defines the business needs, objectives, scope, and high-level requirements for the Netflix Personalized Recommendation Engine — a system that displays content recommendations on each user's home screen based on their viewing behavior, preferences, and contextual data.
+This Business Requirements Document defines the business needs, objectives, scope, and high-level requirements for the Netflix Personalized Recommendation Engine ,A system that displays content recommendations on each user's home screen based on their viewing behavior, preferences, and contextual data.
 
 This document is the foundation for downstream artifacts including the Functional Requirements Document (FRD), Use Cases, User Stories, and Requirements Traceability Matrix (RTM).
 
